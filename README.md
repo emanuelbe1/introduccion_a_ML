@@ -3,7 +3,7 @@
 
 Lista de articulos (por crear)
 <ul>
-<li>Introducción general al aprendizaje automático. Fecha: 17-10-2023.</li>
+<li><a href="https://github.com/emanuelbe1/introduccion_a_ML/blob/main/articulos/introduccion_ml.md">Introducción general al aprendizaje automático.</a> Fecha: 17-10-2023.</li>
 <li>Regresión Lineal. Fecha:-</li>
 <li>Regresión Logística. Fecha:-</li>
 <li>Modelo K-NN. Fecha:-</li>
