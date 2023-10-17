@@ -5,7 +5,7 @@
 <p>Bienvenidos a este articulo introductorio al concepto de aprendizaje automático. Para muchos estudiantes 
 de la ciencia de datos, el aprendizaje automático puede parecer un tema intimidante y difícil de comprender. Sin embargo, con práctica y dedicación, cualquier persona puede entender los fundamentos de esta potente tecnología. En este articulo, voy a introducir un poco el concepto del aprendizaje automático, y mostrarles cómo se podría de aplicar en distintas áreas. Antes de empezar con temas más avanzados, voy a comenzar con una definición resumida de <i>qué es el aprendizaje automático</i> y algunos motivos del por qué es importante.</p>
 
-<img src= "https://raw.githubusercontent.com/emanuelbe1/introduccion_a_ML/main/img/EB_2023-10-13_18.37.45.jpg" alt = "Imagen de una mano robotica escribiendo en un teclado, en primer plano"></img>
+<center><img src= "https://raw.githubusercontent.com/emanuelbe1/introduccion_a_ML/main/img/EB_2023-10-13_18.37.45.jpg" alt = "Imagen de una mano robotica escribiendo en un teclado, en primer plano" width=600></img></center>
 
 <b>Indice</b>
 
